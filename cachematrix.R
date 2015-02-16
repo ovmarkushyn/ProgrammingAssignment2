@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## The function provides special, cachable, inverted matrix 
+## The function provides special, inversion cachable, matrix
 ## which may be used to improve performance 
 ## when repeated computation is needed
 ## To be used with cacheSolve
