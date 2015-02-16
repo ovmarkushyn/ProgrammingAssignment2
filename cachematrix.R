@@ -4,6 +4,7 @@
 ## The function provides special, cachable, inverted matrix 
 ## which may be used to improve performance 
 ## when repeated computation is needed
+## To be used with cacheSolve
 
 makeCacheMatrix <- function(x = matrix()) {
     m <- NULL
